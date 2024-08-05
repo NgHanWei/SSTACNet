@@ -14,7 +14,7 @@ SciPy 1.7
 
 ## Datasets
 
-The BCI Competition IV-2a dataset needs to be downloaded, and the data path should be set in the 'data_path' variable in the main_TrainValTest.py file. The dataset can be downloaded from here.
+The [BCI Competition IV-2a dataset](https://www.bbci.de/competition/iv/#dataset2a) needs to be downloaded, and the data path should be set in the 'data_path' variable in the main_TrainValTest.py file. The dataset can be downloaded from [here](http://bnci-horizon-2020.eu/database/data-sets).
 
 ### Run
 
