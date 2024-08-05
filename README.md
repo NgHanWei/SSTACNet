@@ -2,6 +2,23 @@
 
 ### Results Overview
 
+| Methodology | Mean |
+|-|-|
+| ATCNet | 81.10 |
+| SSTACNet (Self-Selection only) | 81.91 |
+| SSTACNet (Adaptation only) | 80.67 |
+| SSTACNet) | 85.52 |
+
+#### Subject-Wise Comparison
+
+| Methodology | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 |
+|-|-|-|-|-|-|-|-|-|-|
+| ATCNet | 81.10 |
+| SSTACNet (Self-Selection only) |  |
+| SSTACNet (Adaptation only) |  |
+| SSTACNet) | 85.52 |
+
+
 ## Dependencies
 
 Models were trained and tested by a single GPU, Nvidia GTX 2070 8GB (Driver Version: 512.78, CUDA 11.3), using Python 3.7 with TensorFlow framework. Anaconda 3 was used on Ubuntu 20.04.4 LTS and Windows 11. The following packages are required:
