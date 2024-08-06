@@ -1,8 +1,9 @@
 # Self-Selecting Semi-Supervised Transformer-Attention Convolutional Network for Four Class EEG-Based Motor Imagery Decoding
 
 ### Framework
-
-<img src="SS-Learn.PNG" alt="framework" width="600"/>
+<p align="center">
+<img src="SS-Learn.PNG" alt="framework" width="800"/>
+</p>
 
 ### Results Overview
 
