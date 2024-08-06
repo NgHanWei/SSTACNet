@@ -2,7 +2,7 @@
 
 ### Framework
 
-<img src=".SS-Learn.PNG" alt="framework" width="600"/>
+<img src="SS-Learn.PNG" alt="framework" width="600"/>
 
 ### Results Overview
 
