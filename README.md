@@ -7,17 +7,17 @@
 | ATCNet | 85.92 |  64.26 |  92.42 |  80.51  | 72.20  | 69.31 |  94.95  | 82.67 | 88.09 | 81.15 |
 | SSTACNet (Self-Selecting Augmentation only) | 90.25  | 59.21 |  95.31 |  80.87  | 77.62 |  71.12  | 91.34 |  84.48  | 86.64 | 81.87 |
 | SSTACNet (Few-Shot Adaptation only) | 84.48  | 63.18  | 92.06 |  80.87 |  69.31 |  70.40 |  93.50 |  83.39  | 89.53 | 80.75 |
-| SSTACNet) | 89.17  | 75.09  | 94.22  | 88.09  | 80.14  | 73.65 |  91.34  | 85.92  | 92.06 | 85.52 |
+| SSTACNet | 89.17  | 75.09  | 94.22  | 88.09  | 80.14  | 73.65 |  91.34  | 85.92  | 92.06 | 85.52 |
 
 
 ## Dependencies
 
 Models were trained and tested by a single GPU, using Python 3.7 with TensorFlow framework. The following packages are required:
 
-TensorFlow 2.7
-matplotlib 3.5
-NumPy 1.20
-scikit-learn 1.0
+TensorFlow 2.7 \
+matplotlib 3.5 \
+NumPy 1.20 \ 
+scikit-learn 1.0 \
 SciPy 1.7
 
 ## Datasets
