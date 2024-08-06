@@ -14,9 +14,9 @@
 
 Models were trained and tested by a single GPU, using Python 3.7 with TensorFlow framework. The following packages are required:
 
-TensorFlow 2.7 \
-matplotlib 3.5 \
-NumPy 1.20 \ 
+TensorFlow 2.7 <br>
+matplotlib 3.5 <br>
+NumPy 1.20 <br> 
 scikit-learn 1.0 <br>
 SciPy 1.7
 
