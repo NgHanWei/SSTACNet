@@ -17,7 +17,7 @@ Models were trained and tested by a single GPU, using Python 3.7 with TensorFlow
 TensorFlow 2.7 \
 matplotlib 3.5 \
 NumPy 1.20 \ 
-scikit-learn 1.0 \
+scikit-learn 1.0 <br>
 SciPy 1.7
 
 ## Datasets
